@@ -46,8 +46,8 @@
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                                                                                                                                       
-<a href="https://www.linkedin.com/in/jonathan-rebouças">
-        <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathan-rebouças">
+ <a href="https://www.linkedin.com/in/jonathan-rebouças">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjonathan-rebou%C3%A7as">
     </a>
                                                                                                                                                       
 </p>
